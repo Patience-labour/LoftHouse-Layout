@@ -32,3 +32,22 @@ LoftHouse is a responsive website for selling premium real estate. The project i
 npm install
 # or
 yarn install
+
+npm run dev
+# or
+yarn dev
+
+npm run build
+# or
+yarn build
+
+🚀 Deployment
+The project can be deployed on any static site hosting:
+
+Vercel (recommended)
+
+Netlify
+
+GitHub Pages
+
+Cloudflare Pages
