@@ -40,7 +40,7 @@ yarn dev
 npm run build
 # or
 yarn build
-``
+```
 
 🚀 Deployment
 The project can be deployed on any static site hosting:
