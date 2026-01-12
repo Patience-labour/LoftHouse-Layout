@@ -44,7 +44,7 @@ yarn build
 
 ## 🚀 Deployment
 The project can be deployed on any static site hosting:
-- Vercel (recommended)
-- Netlify
-- GitHub Pages
-- Cloudflare Pages
+* Vercel (recommended)
+* Netlify
+* GitHub Pages
+* Cloudflare Pages
