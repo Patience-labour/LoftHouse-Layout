@@ -20,6 +20,7 @@ LoftHouse is a responsive website for selling premium real estate. The project i
 - **ESLint** - Linter for code quality maintenance
 - **Git** - Version control system
 - **HTML5 & CSS3** - Semantic markup and modern styling
+- **JavaScript (ES6+)** - Core programming language
 
 ## 🛠 Installation and Setup
 
@@ -57,4 +58,5 @@ The project can be deployed on any static site hosting:
 * Netlify
 * GitHub Pages
 * Cloudflare Pages
+
 
